@@ -13579,6 +13579,7 @@ api/all_users
 api/analytics
 api/annotate
 api/announcements
+api/public-tool
 api/api
 api/api-browser
 api/api-docs
